@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196130122544",
+    "project_id": "pcclince",
+    "storage_bucket": "pcclince.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196130122544:android:788b9775a81b90cc4036f5",
+        "android_client_info": {
+          "package_name": "com.maf99.pcclinc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0r16swxKFctrQhY7jcI-CmnCorqLA8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
